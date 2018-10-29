@@ -1,0 +1,42 @@
+{
+  "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
+  "javascript.validate.enable": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "editor.rulers": [80],
+  "files.autoSave": "off",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.fontLigatures": true,
+  "editor.renderIndentGuides": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.minimap.enabled": false,
+  "debug.inlineValues": true,
+  "html.format.indentInnerHtml": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "git.autofetch": true,
+  "git.promptToSaveFilesBeforeCommit": true,
+  "npm.packageManager": "yarn",
+  "window.zoomLevel": 0,
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "terminal.integrated.fontFamily": "meslo lg m for powerline",
+  "gitlens.keymap": "alternate",
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "workbench.colorTheme": "Night Owl",
+  "vsicons.dontShowNewVersionMessage": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "editor.formatOnType": false
+}
